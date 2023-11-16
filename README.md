@@ -8,8 +8,8 @@
 [![Microsoft Edge Store](https://img.shields.io/badge/dynamic/json?label=Rating&suffix=/5&color=gree&query=%24.averageRating&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feepmlmdenlkkjieghjmedjahpofieogf)](https://microsoftedge.microsoft.com/addons/detail/web-activity-time-tracker/eepmlmdenlkkjieghjmedjahpofieogf)
 [![Microsoft Edge Store](https://img.shields.io/badge/dynamic/json?label=Microsoft%20Edge&prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feepmlmdenlkkjieghjmedjahpofieogf&logo=microsoft-edge)](https://microsoftedge.microsoft.com/addons/detail/web-activity-time-tracker/eepmlmdenlkkjieghjmedjahpofieogf)
 
-Web Activity Time Tracker keeps track of how much time you spend on the web and presents the stats in a useful and intuitive way. 
-You can set a daily visit limit for sites and block it after the expiration of the limit. 
+Web Activity Time Tracker keeps track of how much time you spend on the web and presents the stats in a useful and intuitive way.
+You can set a daily visit limit for sites and block it after the expiration of the limit.
 
 Extension uses only local [chrome.storage API](https://developer.chrome.com/apps/storage) chrome.storage API to store data and it doesn't send data anywhere.
 
@@ -17,15 +17,13 @@ Extension uses only local [chrome.storage API](https://developer.chrome.com/apps
 
 You can see your daily stats.
 
-![image](https://github.com/Stigmatoz/web-activity-time-tracker/assets/23387046/d67c812c-2ba4-4ef8-a685-ab5fd77c7fbe)
-
+![image](https://github.com/aiden77mori/browser-time-tracker-ext/assets/23387046/d67c812c-2ba4-4ef8-a685-ab5fd77c7fbe)
 
 And you can see your overall stats.
 
-![image](https://github.com/Stigmatoz/web-activity-time-tracker/assets/23387046/6ea4547e-8bc6-4df7-ba0c-b5b330117270)
+![image](https://github.com/aiden77mori/browser-time-tracker-ext/assets/23387046/6ea4547e-8bc6-4df7-ba0c-b5b330117270)
 
-
-If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/Stigmatoz/web-activity-time-tracker/issues).
+If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/aiden77mori/browser-time-tracker-ext/issues).
 
 # Chrome Web Store
 
@@ -40,7 +38,7 @@ Web Activity Time Tracker is available via the official [Chrome Web Store](https
 
 # Run
 
-```pnpm run dev```
+`pnpm run dev`
 
 # License
 
